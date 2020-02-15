@@ -1,0 +1,2 @@
+# python_lesson_jupyter
+python上课jupyter文档,用于ipad上面查看的
